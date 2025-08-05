@@ -1,13 +1,9 @@
 ## Hi there 👋
 
-<p align="left">
-  <a href="https://github.com/oakatgyro/oakatgyro/">
-    <img src="https://komarev.com/ghpvc/?username=oakatgyro" alt="oakatgyro" />
-  </a>
-  <a href="https://github.com/oakatgyro">
-    <img height="20" src="https://img.shields.io/github/followers/oakatgyro?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=oakatgyro&label=Profile%20views&color=0e75b6&style=flat" alt="oakatgyro" />
+  <img height="20" src="https://img.shields.io/github/followers/oakatgyro?label=follow&logo=github&style=flat" />
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
