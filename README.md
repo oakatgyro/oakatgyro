@@ -1,8 +1,9 @@
 ## Hi there 👋
-
+<!--
 <div align="left">
   <img height="20" src="https://img.shields.io/github/followers/oakatgyro?label=follow&logo=github&style=flat" />
 </div>
+-->
 
 
 <h3 align="left">Connect with me:</h3>
