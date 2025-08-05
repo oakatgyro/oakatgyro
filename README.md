@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=oakatgyro&label=Profile%20views&color=0e75b6&style=flat" alt="oakatgyro" />
   <img height="20" src="https://img.shields.io/github/followers/oakatgyro?label=follow&logo=github&style=flat" />
 </div>
 
