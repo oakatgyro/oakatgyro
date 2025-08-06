@@ -21,3 +21,11 @@
 <!--
  [![Ryoga's GitHub stats](https://github-readme-stats-org-omega.vercel.app/api?username=oakatgyro&count_private=true&show_icons=true&theme=transparent&include_organization_stats=true)](https://github.com/oakatgyro/github-readme-stats-org)
 -->
+
+
+### Languages
+
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oakatgyro&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oakatgyro&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=oakatgyro&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
